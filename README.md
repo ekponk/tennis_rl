@@ -25,7 +25,7 @@ File | Description
 ------------------|-------------------
 tennis_project.ipynb | Main ipython file
 Tennis_Linux | Unity code repository
-dqn_agent.py | Learning agent
+ddpg_agent.py | Learning agent
 model.py | PyTorch network model
 checkpoint_my_actor.pth | Actor weights
 checkpoint_my_critic.pth | Critic weights
