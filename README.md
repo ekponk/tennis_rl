@@ -1,6 +1,6 @@
 ## Collaboration and Competition Reinforcement Learning Project
 
-This is an example of Deep Deterministic Policy Gradient reinformcement learning in a simple game environment with multiple agents.
+This is an example of Deep Deterministic Policy Gradient reinforcement learning in a simple game environment with multiple agents.
 The goal is to train two agents to play tennis together, with longer play sessions getting higher rewards.
 
 Some pre-trained model weights are provided. A GPU is preferred for training.
